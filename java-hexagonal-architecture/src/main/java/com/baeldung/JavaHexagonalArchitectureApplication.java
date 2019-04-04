@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * This class is used to bootstrap spring automatic configuration and component
  * scanning.
- *
  */
 @SpringBootApplication
 public class JavaHexagonalArchitectureApplication {
