@@ -1,4 +1,4 @@
-package com.baeldung.dao;
+package com.baeldung.hexarchitecture.dao;
 
 /**
  * Shopping DAO interface to expose available database operations to services. 

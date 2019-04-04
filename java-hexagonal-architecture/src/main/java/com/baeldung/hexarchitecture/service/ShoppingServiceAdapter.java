@@ -1,10 +1,10 @@
-package com.baeldung.service;
+package com.baeldung.hexarchitecture.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.baeldung.dao.ShoppingDaoPort;
-import com.baeldung.domain.Order;
+import com.baeldung.hexarchitecture.dao.ShoppingDaoPort;
+import com.baeldung.hexarchitecture.domain.Order;
 
 /**
  * Shopping service implementation to handle core logic of the application.

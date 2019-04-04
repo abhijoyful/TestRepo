@@ -1,4 +1,4 @@
-package com.baeldung.dao;
+package com.baeldung.hexarchitecture.dao;
 
 import java.util.Random;
 import org.springframework.stereotype.Repository;

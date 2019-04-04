@@ -1,4 +1,4 @@
-package com.baeldung.domain;
+package com.baeldung.hexarchitecture.domain;
 
 /**
  * Domain object representing the order created by the application. 

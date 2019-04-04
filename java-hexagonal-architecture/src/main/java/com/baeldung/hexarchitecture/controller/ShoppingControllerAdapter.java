@@ -1,4 +1,4 @@
-package com.baeldung.controller;
+package com.baeldung.hexarchitecture.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -10,8 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.baeldung.domain.Order;
-import com.baeldung.service.ShoppingServicePort;
+import com.baeldung.hexarchitecture.domain.Order;
+import com.baeldung.hexarchitecture.service.ShoppingServicePort;
 
 /**
  * Shopping Controller to handle requests from the clients.

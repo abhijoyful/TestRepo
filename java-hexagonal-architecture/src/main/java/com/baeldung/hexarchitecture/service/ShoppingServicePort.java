@@ -1,6 +1,6 @@
-package com.baeldung.service;
+package com.baeldung.hexarchitecture.service;
 
-import com.baeldung.domain.Order;
+import com.baeldung.hexarchitecture.domain.Order;
 
 /**
  * Shopping service interface to handle requests from controllers.
